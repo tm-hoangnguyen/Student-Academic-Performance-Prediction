@@ -1,1 +1,3 @@
 # Student-Academic-Performance-Prediction
+
+This analysis uses the Students Performance Dataset, which can be downloaded from [Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset). The dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. For more information about the license, please visit [this link](https://creativecommons.org/licenses/by/4.0/).
